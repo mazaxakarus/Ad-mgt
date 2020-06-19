@@ -1,1 +1,1 @@
-# zemdoc description
+# This is AD script manage
